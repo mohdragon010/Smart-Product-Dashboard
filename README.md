@@ -22,4 +22,4 @@ A frontend dashboard that demonstrates advanced client-side state management usi
 This project focuses on data flow, derived state, and UI logic rather than backend complexity.
 
 ## Live Demo
- - [https://smart-product-dashboard.vercel.app](Live Demo)
+ - (https://smart-product-dashboard.vercel.app)[Live Demo]
